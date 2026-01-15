@@ -1,25 +1,58 @@
-## Hi there! 👋
+# Hi there! 👋 I'm John
 
-Hi, I’m John — a skilled Backend .NET Developer with a strong focus on designing scalable, secure, and high-performance server-side applications. I enjoy turning complex requirements into clean, maintainable solutions using modern .NET technologies.
+💻 **Backend .NET Developer**  
+🚀 Passionate about building **scalable, secure, and high-performance backend systems**
 
-## Skills & Technologies
+I’m a skilled Backend .NET Developer with a strong focus on designing robust server-side applications. I enjoy transforming complex requirements into clean, maintainable, and efficient solutions using modern .NET technologies and best practices.
 
-dotnet,mysql,cs,vscode,html,css,js
+---
 
-## About Me
+## 🛠 Skills & Technologies
 
-I am an enthusiastic programmer with a knack for developing impactful applications. Currently, I am working on several projects that showcase my skills in software development.
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="40" title=".NET" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" title="C#" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" title="VS Code" />
+</p>
 
-## Recent Activity
+---
 
-- Created new repository: [John19110](https://github.com/John19110/John19110)  
-- Pushed updates to [News Management System](https://github.com/John19110/News-Management-System)  
-- Opened issues in [Gym Management System](https://github.com/John19110/Gym-Management-System)
+## 🧠 Problem Solving & Coding Practice
 
-## Connect with Me
+I actively improve my problem-solving skills by practicing data structures and algorithms.
 
-📫 Contact Me
+- 🧩 **LeetCode:** (https://leetcode.com/u/johnpolis122/) 
 
-- 📧 Email: johnpolis122@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/john-polis  
-- 📱 WhatsApp: +20 1273036464
+
+---
+
+## 📌 Featured Projects
+
+- 📰 **News Management System** — Backend system for managing news content using ASP.NET Core and MySQL  
+- 🏋️ **Gym Management System** — Backend APIs for memberships, subscriptions, and reporting  
+
+👉 *Check pinned repositories for more projects.*
+
+---
+
+## 🚧 What I’m Currently Working On
+
+- Improving backend architecture and API design  
+- Practicing algorithms and backend-related problem solving  
+- Building real-world .NET backend projects  
+
+---
+
+## 📫 Let’s Connect
+
+- 📧 **Email:** johnpolis122@gmail.com  
+- 💼 **LinkedIn:** [linkedin.com/in/john-polis](https://www.linkedin.com/in/john-polis)  
+- 📱 **WhatsApp:** +20 127 303 6464  
+
+---
+
+⭐ *Always open to learning, collaboration, and building impactful software solutions.*
