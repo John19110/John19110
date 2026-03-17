@@ -32,7 +32,7 @@ I actively improve my problem-solving skills by practicing data structures and a
 
 ## 📌 Featured Projects
 
-- 📰 **News Management System** — Backend system for managing news content using ASP.NET Core and MySQL  
+- 📰 **Sunday Schools Management System** — Backend system for managing news content using ASP.NET Core and MySQL  
 - 🏋️ **Gym Management System** — Backend APIs for memberships, subscriptions, and reporting  
 
 👉 *Check pinned repositories for more projects.*
