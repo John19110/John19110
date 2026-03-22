@@ -1,58 +1,72 @@
-# Hi there! 👋 I'm John
+# 👋 Hi there! I'm John
 
-💻 **Backend .NET Developer**  
-🚀 Passionate about building **scalable, secure, and high-performance backend systems**
-
-I’m a skilled Backend .NET Developer with a strong focus on designing robust server-side applications. I enjoy transforming complex requirements into clean, maintainable, and efficient solutions using modern .NET technologies and best practices.
+💻 **Backend .NET Developer**
+🚀 Building **scalable, secure, and high-performance backend systems**
 
 ---
 
-## 🛠 Skills & Technologies
+## 🚀 About Me
+
+I specialize in designing and developing robust backend systems using modern .NET technologies. I enjoy turning complex requirements into clean, maintainable, and efficient solutions.
+
+🔹 Passionate about system design & clean architecture
+🔹 Focused on performance, scalability, and security
+🔹 Constantly learning and improving my problem-solving skills
+
+---
+
+## 🛠 Tech Stack
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="40" title=".NET" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" title="C#" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" title="VS Code" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="45" title=".NET" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="45" title="C#" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" title="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" title="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" title="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" title="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" title="VS Code" />
 </p>
 
 ---
 
-## 🧠 Problem Solving & Coding Practice
+## 🧠 Problem Solving
 
-I actively improve my problem-solving skills by practicing data structures and algorithms.
+I actively sharpen my skills in **Data Structures & Algorithms**:
 
-- 🧩 **LeetCode:** (https://leetcode.com/u/johnpolis122/) 
-
+🔗 **LeetCode:** [https://leetcode.com/u/johnpolis122/](https://leetcode.com/u/johnpolis122/)
 
 ---
 
 ## 📌 Featured Projects
 
-- 📰 **Sunday Schools Management System** — Full moblie application for managing Sunday schools service for churches using ASP.NET Core and MySQL  
-- 🏋️ **Gym Management System** — Backend APIs for memberships, subscriptions, and reporting  
+### 📰 Church Management System
 
-👉 *Check pinned repositories for more projects.*
+> Full mobile application for managing church services using ASP.NET Core & MySQL
 
----
+### 🏋️ Gym Management System
 
-## 🚧 What I’m Currently Working On
+> Backend APIs for memberships, subscriptions, and reporting
 
-- Improving backend architecture and API design  
-- Practicing algorithms and backend-related problem solving  
-- Building real-world .NET backend projects  
+👉 *Check pinned repositories for more projects*
 
 ---
 
-## 📫 Let’s Connect
+## 🚧 Currently Working On
 
-- 📧 **Email:** johnpolis122@gmail.com  
-- 💼 **LinkedIn:** [linkedin.com/in/john-polis](https://www.linkedin.com/in/john-polis)  
-- 📱 **WhatsApp:** +20 127 303 6464  
+✨ Improving backend architecture & API design
+✨ Practicing advanced problem-solving
+✨ Building real-world scalable .NET projects
 
 ---
 
-⭐ *Always open to learning, collaboration, and building impactful software solutions.*
+## 📫 Connect With Me
+
+<p>
+  📧 <a href="mailto:johnpolis122@gmail.com">johnpolis122@gmail.com</a><br/>
+  💼 <a href="https://www.linkedin.com/in/john-polis">LinkedIn</a><br/>
+  📱 WhatsApp: +20 127 303 6464
+</p>
+
+---
+
+⭐ *Open to collaboration, opportunities, and building impactful software solutions.*
