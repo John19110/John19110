@@ -157,24 +157,6 @@ I actively strengthen my technical foundation through consistent practice in **D
 
 ---
 
-## GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=John19110&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=John19110&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" height="165" />
-
-<br />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=John19110&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165" />
-
-<br />
-
-<img src="https://komarev.com/ghpvc/?username=John19110&label=Profile%20Views&color=0e7490&style=flat-square" alt="Profile Views" />
-
-</div>
-
----
 
 ## Currently Working On
 
