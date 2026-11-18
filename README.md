@@ -1,4 +1,4 @@
-&#x20;\<div align="center">
+ <div align="center">
 
 # Hi, I'm John Polis
 
@@ -6,12 +6,12 @@
 
 **Designing and building reliable, scalable, and maintainable software systems**
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/john-polis)
+[![Email](https://img.shields.io/badge/Email-johnpolis122@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:johnpolis122@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/johnpolis122/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201273036464)
 
-
-\
-
-
-\</div>
+</div>
 
 ---
 
@@ -31,68 +31,54 @@ I'm a **Software Engineer** passionate about designing and building reliable, ma
 
 ## Core Skills
 
-| Area                      | Skills                                                               |
-| ------------------------- | -------------------------------------------------------------------- |
-| **Software Engineering**  | OOP, SOLID Principles, Design Patterns, Clean Code                   |
-| **Architecture & Design** | Clean Architecture, System Design, Layered Architecture              |
-| **Backend Development**   | ASP.NET Core, RESTful API Design, JWT Authentication & Authorization |
-| **Data & Persistence**    | Database Design, Entity Framework Core, SQL Server, MySQL            |
-| **Engineering Practices** | Problem Solving, Performance Optimization, Maintainable Code         |
-| **Collaboration**         | Git, GitHub, Code Reviews, Team-Based Development                    |
+| Area | Skills |
+|------|--------|
+| **Software Engineering** | OOP, SOLID Principles, Design Patterns, Clean Code |
+| **Architecture & Design** | Clean Architecture, System Design, Layered Architecture |
+| **Backend Development** | ASP.NET Core, RESTful API Design, JWT Authentication & Authorization |
+| **Data & Persistence** | Database Design, Entity Framework Core, SQL Server, MySQL |
+| **Engineering Practices** | Problem Solving, Performance Optimization, Maintainable Code |
+| **Collaboration** | Git, GitHub, Code Reviews, Team-Based Development |
 
 ---
 
 ## Tech Stack
 
-### Backend
+### Backend Development
 
-\<p align="left">
-&#x20; \<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg)" width="42" title=".NET" />
-&#x20; \<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg)" width="42" title="C#" />
-&#x20; \<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg)" width="42" title="Visual Studio" />
-\</p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio" height="45" alt="C#, .NET, Visual Studio" />
+</p>
 
 ### Databases
 
-\<p align="left">
-&#x20; \<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg)" width="42" title="SQL Server" />
-&#x20; \<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg)" width="42" title="MySQL" />
-\</p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql" height="45" alt="MySQL" />
+</p>
 
-### Mobile
+### Mobile Development
 
-\<p align="left">
-&#x20; \<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg)" width="42" title="Flutter" />
-&#x20; \<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg)" width="42" title="Firebase" />
-\</p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=flutter,firebase,androidstudio" height="45" alt="Flutter, Firebase, Android Studio" />
+</p>
 
 ### AI / Machine Learning
 
-\<p align="left">   \<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg)" width="42" title="TensorFlow Lite" />   \<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg)" width="42" title="Python" /> \</p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow" height="45" alt="Python, TensorFlow" />
+</p>
 
-### Languages
+### Programming Languages & Web
 
-\<p align="left">
-&#x20; \<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg)" width="42" title="C#" />
-&#x20; \<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg)" width="42" title="Python" />
-&#x20; \<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg)" width="42" title="JavaScript" />
-&#x20; \<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg)" width="42" title="HTML5" />
-&#x20; \<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg)" width="42" title="CSS3" />
-\</p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cs,cpp,python,js,html,css" height="45" alt="C#, C++, Python, JavaScript, HTML, CSS" />
+</p>
 
-### Tools
+### Development Tools & Version Control
 
-\<p align="left">
-&#x20; \<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg)" width="42" title="VS Code" />
-&#x20; \<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg)" width="42" title="Visual Studio" />
-&#x20; \<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg)" width="42" title="Postman" />
-\</p>
-
-### Version Control
-
-\<p align="left">   \<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg)" width="42" title="Git" />   \<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg)" width="42" title="GitHub" /> \</p>
-
-\<p align="left">   \<img src="[https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square\&logo=dotnet\&logoColor=white)" alt="ASP.NET Core" />   \<img src="[https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white](https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=flat-square\&logo=dotnet\&logoColor=white)" alt="Entity Framework Core" />   \<img src="[https://img.shields.io/badge/REST%20APIs-00599C?style=flat-square&logo=rest&logoColor=white](https://img.shields.io/badge/REST%20APIs-00599C?style=flat-square\&logo=rest\&logoColor=white)" alt="REST APIs" />   \<img src="[https://img.shields.io/badge/JWT%20Authentication-000000?style=flat-square&logo=jsonwebtokens&logoColor=white](https://img.shields.io/badge/JWT%20Authentication-000000?style=flat-square\&logo=jsonwebtokens\&logoColor=white)" alt="JWT Authentication" />   \<img src="[https://img.shields.io/badge/TensorFlow%20Lite-FF6F00?style=flat-square&logo=tensorflow&logoColor=white](https://img.shields.io/badge/TensorFlow%20Lite-FF6F00?style=flat-square\&logo=tensorflow\&logoColor=white)" alt="TensorFlow Lite" /> \</p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,postman,git,github" height="45" alt="VS Code, Visual Studio, Postman, Git, GitHub" />
+</p>
 
 ---
 
@@ -115,7 +101,11 @@ I'm a **Software Engineer** passionate about designing and building reliable, ma
 - Helps users locate nearby **hospitals, police stations, and emergency services**
 - Supports a **multilingual UI** for broader accessibility
 
-\<p align="left">   \<a href="[https://github.com/John19110/Crash-Detection-GP-Project-](https://github.com/John19110/Crash-Detection-GP-Project-)">     \<img src="[https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge\&logo=github\&logoColor=white)" alt="View Repository" />   \</a> \</p>
+<p align="left">
+  <a href="https://github.com/John19110/Crash-Detection-GP-Project-">
+    <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repository" />
+  </a>
+</p>
 
 ---
 
@@ -132,7 +122,11 @@ I'm a **Software Engineer** passionate about designing and building reliable, ma
 - Focused on maintainable backend logic and reliable data handling
 - Supports structured management of church services and related operations
 
-\<p align="left">   \<img src="[https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square\&logo=dotnet\&logoColor=white)" alt="ASP.NET Core" />   \<img src="[https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)" alt="MySQL" />   \<img src="[https://img.shields.io/badge/Mobile%20App-3DDC84?style=flat-square&logo=android&logoColor=white](https://img.shields.io/badge/Mobile%20App-3DDC84?style=flat-square\&logo=android\&logoColor=white)" alt="Mobile App" /> \</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="ASP.NET Core" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Mobile%20App-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Mobile App" />
+</p>
 
 > More projects are available in my pinned repositories.
 
@@ -142,11 +136,11 @@ I'm a **Software Engineer** passionate about designing and building reliable, ma
 
 I actively strengthen my technical foundation through consistent practice in **Data Structures & Algorithms**.
 
-\<div align="center">
+<div align="center">
 
+[![LeetCode](https://img.shields.io/badge/LeetCode-johnpolis122-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/johnpolis122/)
 
-
-\</div>
+</div>
 
 ---
 
@@ -169,18 +163,18 @@ I actively strengthen my technical foundation through consistent practice in **D
 
 ## Connect With Me
 
-\<div align="center">
+<div align="center">
 
+[![Email](https://img.shields.io/badge/Email-johnpolis122@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:johnpolis122@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-John%20Polis-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/john-polis)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B20%20127%20303%206464-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201273036464)
+[![GitHub](https://img.shields.io/badge/GitHub-John19110-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/John19110)
 
-
-\
-
-
-\</div>
+</div>
 
 ---
 
-\<div align="center">
+<div align="center">
 
 ### Let's build something impactful together
 
@@ -190,4 +184,4 @@ If you're working on something interesting or hiring for software engineering ro
 
 **Thanks for visiting my profile.**
 
-\</div>
+</div>
